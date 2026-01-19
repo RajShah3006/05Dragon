@@ -5,7 +5,7 @@ I’m a BTech Automation Technology Engineering student at McMaster University, 
 ### 🌟 Featured Repositories
 - **Saarthi** (Python): AI university guidance counselor using RAG, semantic vector search, Gradio, and FastAPI.
 - **OOP-Final-Project---Calculator** (C++): All-in-one calculator covering trig, logarithms, calculus, and complex numbers with OOP design.
-- **Notes** (Java): Course project templates for Greenfoot or JavaFX-based builds.
+- **Notes** (Java): Java course project examples and templates using Greenfoot and JavaFX frameworks.
 - **05Dragon** (Markdown): GitHub profile configuration and presentation.
 
 ### 🛠️ Languages & Skills
