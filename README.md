@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Raj
 
-I’m a BTech Automation Technology Engineering student at McMaster University who enjoys building projects that blend 3D design, coding, and robotics. On GitHub, I focus on hands-on automation experiments and creative builds that turn ideas into working prototypes.
+I’m a BTech Automation Technology Engineering student at McMaster University who enjoys building projects that blend 3D design, coding, and robotics. Recent work includes Saarthi AI (an intelligent university guidance counselor), an OOP-based C++ calculator, and Java/JavaFX prototypes.
 - 👀 I’m interested in 3D designing, coding and building robots!
 - I am pursuing BTech - Automation Technology Engineering @McMaster University!
 - 📫 How to reach me -
